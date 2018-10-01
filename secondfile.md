@@ -1,0 +1,1 @@
+I chose the computer engineering track because I have always been intrigued by how computers and electronics work. I have been working as a c# developer for the last 5 years and want to now transition more into the hardware design and hardware software integration of the computer engineering.
